@@ -1,0 +1,2 @@
+# hallo-word
+repository pertama
